@@ -1,6 +1,6 @@
 # End-to-end-Sequence-Labeling-via-CNNs-CRF 
 
-This repository is built upon this [**End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF**] and my codebase replaces the LSTM-based word-level encoder with a CNN layer. 
+This repository is built upon this [**End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF**] and my codebase replaces the LSTM-based word-level encoder with a CNN/Multi-level CNN layer. 
 
 
 ## Setup details
